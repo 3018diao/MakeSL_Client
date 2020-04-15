@@ -2,4 +2,5 @@
 React + Echarts + Antd 
 
 npm install
+
 npm start
