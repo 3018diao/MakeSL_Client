@@ -1,6 +1,11 @@
 # MakeSL_Client
-React + Echarts + Antd 
+It uses React + Echarts + Antd UI
 
-npm install
+### Getting started
+- Clone the repository
+`git clone git@github.com:3018diao/MakeSL_Client.git`
 
-npm start
+### How tu run
+* pre-condition: `npm i`
+* render thread: `npm start`
+
