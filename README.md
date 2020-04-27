@@ -1,4 +1,5 @@
 # MakeSL_Client
+Author Max, Denis, Huiyu
 It uses React + Echarts + Antd UI
 
 ### Getting started
